@@ -1,9 +1,9 @@
-<style > @media (min-width: 768px) {
+ @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
 }
-</style>
+
 
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {

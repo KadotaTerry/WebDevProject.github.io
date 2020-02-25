@@ -20,10 +20,18 @@ background-image: url("https://www.transparenttextures.com/patterns/black-felt.p
   height: 375px;
   position: float;
   margin-left: 600px;
-  margin-top: -100px;
+  margin-top: -150px;
   filter: drop-shadow(10px 10px 10px green);
 }
 
 .btn {
  background-color: #880E4F;
+}
+
+.light {
+	background-color: #18FFFF;
+}
+
+.dark {
+	background-color:#D50000 ;
 }

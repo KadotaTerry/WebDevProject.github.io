@@ -23,3 +23,7 @@ background-image: url("https://www.transparenttextures.com/patterns/black-felt.p
   margin-top: -100px;
   filter: drop-shadow(10px 10px 10px green);
 }
+
+.btn {
+ background-color: #880E4F;
+}

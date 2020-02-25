@@ -20,7 +20,7 @@ background-image: url("https://www.transparenttextures.com/patterns/black-felt.p
   height: 375px;
   position: float;
   margin-left: 600px;
-  margin-top: -150px;
+  margin-top: 0px;
   filter: drop-shadow(10px 10px 10px green);
 }
 
